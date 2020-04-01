@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8fd9279-e029-4277-a7e8-c5daba1837cc" name="Default Changelist" comment="" />
+    <list default="true" id="e8fd9279-e029-4277-a7e8-c5daba1837cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Panorama_Mosaic_Stiching" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZvnWMWd3JaBl1qPKemewXNSqSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +31,7 @@
       <recent name="D:\Projects\Computer_Vision\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Feature_Detection_and_Matching_File">
+  <component name="RunManager" selected="Python.Panorama_Mosaic_Stiching">
     <configuration name="Feature_Detection_and_Matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_Vision_Project_Teak" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +66,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature_Detection_and_Matching_File" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Panorama_Mosaic_Stiching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_Vision_Project_Teak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Panorama_Mosaic_Stiching" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +161,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Panorama_Mosaic_Stiching" />
         <item itemvalue="Python.Feature_Detection_and_Matching_File" />
         <item itemvalue="Python.Feature_Detection_and_Matching" />
       </list>
@@ -168,10 +197,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1585728819165" />
-    <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585730329410">
+    <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585772631338">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1585730329410" />
+    <state x="496" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1585772631338" />
     <state x="580" y="172" key="FileChooserDialogImpl" timestamp="1585728836657">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -180,22 +209,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="634" y="347" width="356" height="166" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1585728671889" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1585767128741">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1585774778623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585767128741" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1585767128740">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585774778623" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1585774778622">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585767128740" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1585767128740">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585774778622" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1585774778622">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585767128740" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1585767128741">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585774778622" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1585774778623">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585767128741" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585774778623" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1585766684682">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
