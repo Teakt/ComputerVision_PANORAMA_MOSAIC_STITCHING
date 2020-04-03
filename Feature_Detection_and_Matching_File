@@ -16,8 +16,8 @@ dst = cv2.dilate(dst,None)
 img[dst>0.01*dst.max()]=[0,0,255]
 
 
-img1 = cv2.imread('Images/Rainier1.png',cv2.IMREAD_GRAYSCALE)          # queryImage
-img2 = cv2.imread('Images/Rainier2.png',cv2.IMREAD_GRAYSCALE) # trainImage
+img1 = cv2.imread('Rainier1.png', cv2.IMREAD_GRAYSCALE)          # queryImage
+img2 = cv2.imread('Rainier2.png', cv2.IMREAD_GRAYSCALE) # trainImage
 
 # Initiate SIFT detector
 sift = cv2.xfeatures2d.SIFT_create()
