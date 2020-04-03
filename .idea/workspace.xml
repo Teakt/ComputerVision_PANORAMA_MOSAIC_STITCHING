@@ -2,16 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8fd9279-e029-4277-a7e8-c5daba1837cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AllStitched_BONUS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature_Detection_and_Matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature_Detection_and_Matching_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/custom2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Panorama_Mosaic_Stiching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feature_Detection_and_Matching_File" beforeDir="false" afterPath="$PROJECT_DIR$/Feature_Detection_and_Matching_File" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Rainier6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Rainier6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Panorama_Mosaic_Stiching" beforeDir="false" afterPath="$PROJECT_DIR$/Panorama_Mosaic_Stiching" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature_Detection_and_Matching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Feature_Detection_and_Matching_File" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Panorama_Mosaic_Stiching" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +29,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZvnWMWd3JaBl1qPKemewXNSqSt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -42,7 +52,7 @@
       <recent name="D:\Projects\Computer_Vision\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Panorama_Mosaic_Stiching">
+  <component name="RunManager" selected="Python.Panorama_Mosaic_Stiching (1)">
     <configuration name="Feature_Detection_and_Matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer_Vision_Project_Teak" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,6 +87,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature_Detection_and_Matching_File" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Panorama_Mosaic_Stiching (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Computer_Vision_Project_Teak" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Panorama_Mosaic_Stiching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,10 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Panorama_Mosaic_Stiching (1)" />
         <item itemvalue="Python.Panorama_Mosaic_Stiching" />
+        <item itemvalue="Python.Feature_Detection_and_Matching_File" />
         <item itemvalue="Python.Feature_Detection_and_Matching" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Feature_Detection_and_Matching_File" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +193,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585728819165">
       <screen x="0" y="0" width="1600" height="860" />
@@ -178,38 +213,38 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="634" y="347" width="356" height="166" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1585728671889" />
-    <state width="773" height="222" key="GridCell.Tab.0.bottom" timestamp="1585915469294">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1585927598903">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="773" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585915469294" />
-    <state width="773" height="222" key="GridCell.Tab.0.center" timestamp="1585915469294">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585927598903" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1585927598903">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="773" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585915469294" />
-    <state width="773" height="222" key="GridCell.Tab.0.left" timestamp="1585915469294">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585927598903" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1585927598903">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="773" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585915469294" />
-    <state width="773" height="222" key="GridCell.Tab.0.right" timestamp="1585915469294">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585927598903" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1585927598903">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="773" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585915469294" />
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1585901715818">
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585927598903" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1585922925839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585901715818" />
-    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1585901715817">
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585922925839" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1585922925839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585901715817" />
-    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1585901715817">
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585922925839" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1585922925839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585901715817" />
-    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1585901715818">
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585922925839" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1585922925839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585901715818" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585922925839" />
     <state x="301" y="73" key="SettingsEditor" timestamp="1585766684682">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -218,16 +253,5 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="495" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585889297691" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test</url>
-          <line>30</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
